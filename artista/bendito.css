@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    color: aliceblue;
+    list-style: none;
+    background-color:rgb(43, 147, 245);
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(240, 240, 240);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+}
+.bendito:hover{
+    color: rgb(0, 0, 0);
+}
+.bendi{
+    float: right ;
+    margin-top: -579px;
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(240, 240, 240);
+    padding: auto;
+}
+button{
+    background-image: url(fulbo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    margin-left: 33%;
+}
+ul{
+    list-style: none;
+}

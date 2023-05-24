@@ -1,0 +1,51 @@
+body{
+    background-image: url("1236.png");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 300%;
+}
+section{
+    color: aliceblue;
+    list-style: none;
+    background-color:rgb(245, 43, 60);
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(240, 240, 240);
+    padding: 100px;
+    margin: 20px;
+    text-align: center;
+}
+.bendito:hover{
+    color: rgb(0, 0, 0);
+}
+.bendi{
+    float: right ;
+    margin-top: -579px;
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(240, 240, 240);
+    padding: auto;
+}
+button{
+    background-image: url(fulbo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+.img{
+    width: -50vh;
+    height: -50vh;
+    align-items: center;
+    margin-left: 40%;
+    float: center;
+}
+
+ul{
+    list-style: none;
+}
